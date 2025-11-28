@@ -1,6 +1,6 @@
 ## Chameleon Color Scheme
 
-It’s named Chameleon because its background color automatically adapts to your desktop theme.
+It’s named Chameleon because the background color automatically adapts to your desktop theme.
 The text and syntax highlighting use a beautiful blue-green palette inspired by the chameleon
 itself. Chameleons are cool—and so is this color schema designed for GtkSourceView-based text
 editors.
